@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kha07
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Django and ReactJS
+- 🌱 I’m currently learning ReactJS
 - That's Pretty Much It!
 <!---
 kha07/kha07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
