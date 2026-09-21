@@ -1,14 +1,4 @@
+Languages I am Fluent At:
 
-- Languages Known:
-- Python
-- Java
-- C#
-- C++ 
-- Kotlin
-- JS - 
-
-Current Frameworks That I use:
-Django 
-Spring 
-Flask 
+Python, C, TypeScript, JavaScript
 
